@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Lokesh-Bisht
-- 👀 I’m interested in Backend-web development.
-- 🌱 I’m currently learning 
-    1. Java Spring Boot, Redis, Jedis, Redisson, Apache Kafka, and Vert.x;
-    2. TypeScript, Node.js, Express, Sequelize;
-    4. Database: Postgres and MongoDB
-    5. Languages I know or have worked on professional or on personal projects: C++, Java, TypeScript, JavaScript, Python, Kotlin
-- 💞️ I’m looking to collaborate on repos related to backend development, and multithreaded server client architecture.
+- 👋 Hi, I’m Lokesh Bisht
+- 👀 At present my interest lies in building scalable backend systems.
+- I'm polyglot -> C++, Java, TypeScript, Kotlin, Python
+- 🌱 Tech Stack:
+    1. Java, Spring Boot, Vert.x
+    2. Databases -> Postgres, MongoDB, Redis
+    3. Caching -> Redis, Jedis, Redisson
+    4. Messaging -> Apache Kafka
+    5. Node.js Backend ---> TypeScript, Node.js, Express, Sequelize ORM
+- 💞️ I’m looking to collaborate on repos related to backend development, and multithreaded server-client architecture.
 - 📫 How to reach me -> lokeshbisht.096@gmail.com
 
 <!---
